@@ -1,0 +1,28 @@
+.body{
+    /* margin-top: 100px; */
+    display: grid;
+    grid-template-columns:  auto auto auto;
+    gap: 2vw;
+    padding-top: 150px;
+}
+.sameItem{
+    padding: 5px;
+    border: 1px solid black;
+    transition: 0.5s;
+    font-size: 1.5vw;
+}
+.sameItem:hover{
+    box-shadow: 2px 2px 2px 2px rgba(0, 0, 255, 0.253);
+}
+button{
+    background-color: rgba(168, 46, 46, 0.548);
+    color: aliceblue;
+    border: none;
+    width: 10vw;
+    padding: 5px ;
+    margin-top: 5px;
+    margin: 5px;
+}
+button:hover{
+    background-color: brown;
+}

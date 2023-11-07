@@ -1,0 +1,10 @@
+.header{
+    position: fixed;
+    width: 100%;
+    background-color: brown;
+    text-align: center;
+    color: aliceblue;
+    padding: 20px;
+    margin-bottom: 10px;
+    
+}
